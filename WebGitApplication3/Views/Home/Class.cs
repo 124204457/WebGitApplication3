@@ -13,5 +13,8 @@ namespace WebGitApplication3.Views.Home
         public int b() {
             return 1;
         }
+        public string aa() {
+            return "22";
+        }
     }
 }
