@@ -7,8 +7,10 @@ namespace WebGitApplication3.Views.Home
 {
     public class Class
     {
-        public int a() {
+        public int a1() {
             return 0;
         }
+
+
     }
 }
